@@ -1,5 +1,5 @@
 #!/bin/bash
-#Grupo: Júlia Chiarotto Filippini, Marina Calchi Coser, Nicolas Sena, Júlia Silva
+#Grupo: Júlia Chiarotto Filippini, Marina Calchi Coser, Nycollas Sena, Júlia Silva
 #Projeto de Shell Script- monitoramento de amibiente
 
 echo "## Missão 1: Acesso e Segurança"
